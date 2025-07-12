@@ -147,14 +147,6 @@ The modular architecture supports easy extension:
 - Build API endpoints for real-time access
 - Develop scheduling for automated execution
 
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Follow existing code patterns and documentation standards
-2. Test scrapers against target websites before submitting
-3. Update README if adding new municipalities
-4. Ensure responsible scraping practices
-
 ## ⚖️ Legal & Ethical Compliance
 
 - **Public Data Only** - Accesses publicly available information
